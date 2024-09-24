@@ -11,59 +11,59 @@ description: 'Object-1',
 },
 {
 preview:
-'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677__340.jpg',
+'../img/img-gallery/preview/preview-object-2.jpg',
 original:
-'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677_1280.jpg',
-description: 'Container Haulage Freight',
+'../img/img-gallery/original/original-object-2.jpg',
+description: 'Object-2',
 },
 {
 preview:
-'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785__340.jpg',
+'../img/img-gallery/preview/preview-object-3.jpg',
 original:
-'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785_1280.jpg',
-description: 'Aerial Beach View',
+'../img/img-gallery/original/original-object-3.jpg',
+description: 'Object-3',
 },
 {
 preview:
-'https://cdn.pixabay.com/photo/2016/11/18/16/19/flowers-1835619__340.jpg',
+'../img/img-gallery/preview/preview-object-4.jpg',
 original:
-'https://cdn.pixabay.com/photo/2016/11/18/16/19/flowers-1835619_1280.jpg',
-description: 'Flower Blooms',
+'../img/img-gallery/original/original-object-4.jpg',
+description: 'Object-4',
 },
 {
 preview:
-'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334__340.jpg',
+'../img/img-gallery/preview/preview-object-5.jpg',
 original:
-'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334_1280.jpg',
-description: 'Alpine Mountains',
+'../img/img-gallery/original/original-object-5.jpg',
+description: 'Object-5',
 },
 {
 preview:
-'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571__340.jpg',
+'../img/img-gallery/preview/preview-object-6.jpg',
 original:
-'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571_1280.jpg',
-description: 'Mountain Lake Sailing',
+'../img/img-gallery/original/original-object-6.jpg',
+description: 'Object-6',
 },
 {
 preview:
-'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272__340.jpg',
+'../img/img-gallery/preview/preview-object-7.jpg',
 original:
-'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272_1280.jpg',
-description: 'Alpine Spring Meadows',
+'../img/img-gallery/original/original-object-7.jpg',
+description: 'Object-7',
 },
 {
 preview:
-'https://cdn.pixabay.com/photo/2019/05/16/21/10/landscape-4208255__340.jpg',
+'../img/img-gallery/preview/preview-object-8.jpg',
 original:
-'https://cdn.pixabay.com/photo/2019/05/16/21/10/landscape-4208255_1280.jpg',
-description: 'Nature Landscape',
+'../img/img-gallery/original/original-object-8.jpg',
+description: 'Object-8',
 },
 {
 preview:
-'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843__340.jpg',
+'../img/img-gallery/preview/preview-object-9.jpg',
 original:
-'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg',
-description: 'Lighthouse Coast Sea',
+'../img/img-gallery/original/original-object-9.jpg',
+description: 'Object-9',
 },
 ];
 
