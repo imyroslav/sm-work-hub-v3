@@ -4,65 +4,65 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 const images = [
 {
 preview:
-'./img/img-gallery/preview/preview-object-1.jpg',
+'./images/preview-object-1.jpg',
 original:
-'./img/img-gallery/original/original-object-1.jpg',
+'./images/original-object-1.jpg',
 description: 'Object-1',
 },
 {
 preview:
-'./img/img-gallery/preview/preview-object-2.jpg',
+'./images/preview-object-2.jpg',
 original:
-'./img/img-gallery/original/original-object-2.jpg',
+'./images/original-object-2.jpg',
 description: 'Object-2',
 },
 {
 preview:
-'./img/img-gallery/preview/preview-object-3.jpg',
+'./images/preview-object-3.jpg',
 original:
-'./img/img-gallery/original/original-object-3.jpg',
+'./images/original-object-3.jpg',
 description: 'Object-3',
 },
 {
 preview:
-'./img/img-gallery/preview/preview-object-4.jpg',
+'./images/preview-object-4.jpg',
 original:
-'./img/img-gallery/original/original-object-4.jpg',
+'./images/original-object-4.jpg',
 description: 'Object-4',
 },
 {
 preview:
-'./img/img-gallery/preview/preview-object-5.jpg',
+'./images/preview-object-5.jpg',
 original:
-'./img/img-gallery/original/original-object-5.jpg',
+'./images/original-object-5.jpg',
 description: 'Object-5',
 },
 {
 preview:
-'./img/img-gallery/preview/preview-object-6.jpg',
+'./images/preview-object-6.jpg',
 original:
-'./img/img-gallery/original/original-object-6.jpg',
+'./images/original-object-6.jpg',
 description: 'Object-6',
 },
 {
 preview:
-'./img/img-gallery/preview/preview-object-7.jpg',
+'./images/preview-object-7.jpg',
 original:
-'./img/img-gallery/original/original-object-7.jpg',
+'./images/original-object-7.jpg',
 description: 'Object-7',
 },
 {
 preview:
-'./img/img-gallery/preview/preview-object-8.jpg',
+'./images/preview-object-8.jpg',
 original:
-'./img/img-gallery/original/original-object-8.jpg',
+'./images/original-object-8.jpg',
 description: 'Object-8',
 },
 {
 preview:
-'./img/img-gallery/preview/preview-object-9.jpg',
+'./images/preview-object-9.jpg',
 original:
-'./img/img-gallery/original/original-object-9.jpg',
+'./images/original-object-9.jpg',
 description: 'Object-9',
 },
 ];
