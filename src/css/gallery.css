@@ -1,7 +1,8 @@
 body {
     box-sizing: border-box;
-  }
-  .gallery {
+}
+
+.gallery {
     display: flex;
     width: 1128px;
     flex-wrap: wrap;
@@ -9,11 +10,9 @@ body {
     row-gap: 48px;
     margin: 0 auto;
     list-style: none;
-  }
+}
 
-  .gallery-image {
+.gallery-image {
     width: 360px;
     height: 200px;
-  }
-
-
+}
