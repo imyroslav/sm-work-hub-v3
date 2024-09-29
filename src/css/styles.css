@@ -81,7 +81,7 @@ a {
     background-image: linear-gradient(to bottom,
             rgba(46, 47, 66, 0.5),
             rgba(45, 47, 66, 0.5)),
-        url(../images/hero-cranes.jpg);
+        url(../../public/images/hero-cranes.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
